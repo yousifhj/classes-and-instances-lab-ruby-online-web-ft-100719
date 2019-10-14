@@ -1,6 +1,6 @@
 class Person 
 end 
 
-hands = Person.new 
-hands 
+nancy = Person.new 
+nancy 
 
